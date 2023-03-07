@@ -10,11 +10,9 @@ with st.form(key="form"):
                                   "As soon as I know I received the message, I'll respond to you!")
     raw_message = st.text_area("Your message:")
     message = f"""\
-    
     Subject: New email from {email_address}
     
     From: {email_address}
-    
     {raw_message}
     """
     submit_button = st.form_submit_button("Submit")
