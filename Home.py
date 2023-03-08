@@ -27,6 +27,7 @@ with column_2:
 content2 = """
 There are 20 project icons below you can see, however, currently I've finished four projects; 1) Todo App, 2) Portfolio Website (this one:-)), 3) PDF Templates, and 4) PDF Invoices.
 I haven't started other projects, but if there is any project you want to see how I can do it, you can drop me a message from the Contact Me shown in the left pane to let me know:)
+If you have an error when pressing on the Submit button, please directly send your message to ten87tak@gmail.com from your email application.
 """
 # st.text(content2) # This was my solution!
 st.write(content2)
