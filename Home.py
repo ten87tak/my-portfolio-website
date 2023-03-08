@@ -3,6 +3,8 @@ import pandas
 
 st.set_page_config(layout="wide")
 
+st.write("[Japanese](https://ten87tak-my-jp-portfolio-website-home-wnxq4r.streamlit.app/)")
+
 st.title("Welcome to My Portfolio App-Site!!😄")
 st.write("🍏😺🍏🐈🍏🐾🍏🐱🍏🐈🍏🐾🍏😸🍏🐈🍏🐾🍏😽🍏🐈🍏🐾🍏😹🍏🐈🍏🐾🍏😺🍏🐈🍏🐾🍏🐱🍏🐈🍏🐾🍏😸")
 st.write("")
