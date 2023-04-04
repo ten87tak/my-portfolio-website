@@ -24,3 +24,5 @@ with column_1:
 
 with column_2:
     st.image("images/OOP_App1.PNG")
+
+    st.write(f"[Source Code]('https://github.com/ten87tak/OOP_App1_GeoGame')")
